@@ -6,8 +6,9 @@ Este projeto é um exemplo simples de como implementar diferentes formas de paga
 ## 🚀 Funcionalidades
 
 - Escolha de forma de pagamento:
-• 🅰️ PayPal
-• 🅱️ Cartão de Crédito
-• 🅾️ MBWay
+  
+- 🅰️ PayPal
+- 🅱️ Cartão de Crédito
+- 🅾️ MBWay
 Processamento de pagamento com mensagens personalizadas.
 Demonstração prática de herança e polimorfismo.
